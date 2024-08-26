@@ -39,7 +39,7 @@
                         <div class="form-group">
                             <label for="nom">Désignation</label>
                             <select name="" id="" class="form-control">
-                                <option value="">iphone11</option>
+                                <option value="">iphone 11</option>
                                 <option value="">Ordinateur</option>
                             </select>
                         </div>
